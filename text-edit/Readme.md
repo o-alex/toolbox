@@ -12,4 +12,6 @@ On Sublime Text 3, open Package Manager (Ctrl-Shift-P on Linux/Win, Cmd-Shift-P 
 ssh -R 52698:localhost:52698 server_user@server_address
 ```
 5. Server - run
+```
 rsub path_to_file/file.txt
+```
